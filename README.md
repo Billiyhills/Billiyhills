@@ -1,4 +1,4 @@
-~Welcome to **Billiy's hill**~
+~Welcome to **Billiy's hills**~
 
 ~From the ashes of a lost account, a new saga begins. ✨  
 Rising with resilience, 💪  

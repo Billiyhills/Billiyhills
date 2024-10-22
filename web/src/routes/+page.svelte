@@ -17,6 +17,6 @@
 	{/if}
 </aside>
 
-<section>
+<article>
 	{@html data.md_files.find((file) => file.file_name === selected_file)?.content}
-</section>
+</article>

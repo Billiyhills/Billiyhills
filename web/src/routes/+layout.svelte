@@ -1,4 +1,5 @@
 <script lang="ts">
+	import '../styles/globals.css';
 	import '../styles/resetter.css';
 
 	const { children } = $props();
@@ -16,6 +17,7 @@
 		display: flex;
 		align-items: center;
 		justify-content: center;
-		gap: 50px;
+		gap: 2.5rem;
+		font-family: 'Patrick Hand', cursive;
 	}
 </style>

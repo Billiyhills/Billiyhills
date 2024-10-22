@@ -1,6 +1,6 @@
-Welcome to **Billiy's hills**
+~Welcome to **Billiy's hills**~
 
-From the ashes of a lost account, a new saga begins. ✨  
+~From the ashes of a lost account, a new saga begins. ✨  
 Rising with resilience, 💪  
 I embrace each challenge as a stepping stone 🌱  
-toward a brighter horizon. 🌅
+toward a brighter horizon. 🌅~

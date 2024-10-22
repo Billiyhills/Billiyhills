@@ -24,6 +24,8 @@ jobs:
           npm install
 
       - name: build
+        env:
+          BASE_PATH: '/${{ github.event.repository.name }}'
         run: |
           cd web
           npm run build

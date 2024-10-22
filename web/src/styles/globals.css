@@ -1,10 +1,10 @@
 html {
-  font-size: 125%;
+	font-size: 125%;
 }
 
 @font-face {
-  font-family: "Patrick Hand";
-  src: url("../assets/fonts/PatrickHand-Regular.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal;
+	font-family: 'Patrick Hand';
+	src: url('../assets/fonts/PatrickHand-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
 }

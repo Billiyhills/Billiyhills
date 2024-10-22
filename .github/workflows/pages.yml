@@ -5,7 +5,7 @@ on:
     branches: 'main'
 
 jobs:
-  build_site:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -24,8 +24,6 @@ jobs:
           npm install
 
       - name: build
-        env:
-          BASE_PATH: '/${{ github.event.repository.name }}'
         run: |
           cd web
           npm run build
@@ -35,7 +33,7 @@ jobs:
           path: 'web/build/'
 
   deploy:
-    needs: build_site
+    needs: build
     runs-on: ubuntu-latest
 
     permissions:

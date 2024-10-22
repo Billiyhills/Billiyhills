@@ -5,6 +5,10 @@
 	const { children } = $props();
 </script>
 
+<svelte:head>
+	<title>🌄 Billiyhills</title>
+</svelte:head>
+
 <main>
 	{@render children()}
 </main>

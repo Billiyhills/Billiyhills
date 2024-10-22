@@ -7,7 +7,7 @@
 </script>
 
 <aside>
-	<h1>Billiyhills</h1>
+	<h1>🌄 Billiyhills</h1>
 	{#if data}
 		<div class="md_files">
 			{#each data.md_files as md_file}

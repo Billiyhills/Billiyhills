@@ -10,7 +10,7 @@
 	{#each data.md_files as md_file}
 		<ul>
 			<li>{md_file.file_name}</li>
-			<li>{@html md_file.content}</li>
+			{@html md_file.content}
 		</ul>
 	{/each}
 {/if}
